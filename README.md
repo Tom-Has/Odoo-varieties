@@ -1,1 +1,1 @@
-This project summarizes methods for transfer of tabular data for import as models for the ERP system Odoo
+This project summarizes methods for various operations around the ERP system Odoo
